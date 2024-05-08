@@ -1,0 +1,12 @@
+.items .item{
+    width: 400px;
+    padding-bottom: 300px;
+    margin-left: 50px;
+    background-color: aqua;
+}
+.active-item{
+    border: 3px solid black;
+}
+.items{
+    display: flex;
+}
